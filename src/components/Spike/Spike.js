@@ -12,7 +12,9 @@ import {connect} from 'react-redux';
 class Spike extends Component {
   render() {
     return (
-     <div></div>
+     <div>
+         <input placeHolder="email"></input>
+     </div>
   )}
 }
 
